@@ -25,9 +25,7 @@ export default {
 <style lang="stylus" scoped>
   @import '~styles/mixins.styl'
   .recommend-title
-    line-height: 2.16rem
-    background: #eee
-    text-indent: 1rem
+    title-common()
   .item-img-wrapper
     height: 0
     overflow: hidden

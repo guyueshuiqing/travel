@@ -25,9 +25,7 @@ export default {
   @import '~styles/mixins.styl'
   .recommend-title
     margin-top: .4rem
-    line-height: 2.16rem
-    background: #eee
-    text-indent: 1rem
+    title-common()
   .item
     overflow: hidden
     display: flex

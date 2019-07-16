@@ -17,11 +17,13 @@ export default {
     padding: 0 .4rem
     background: $bgColor
     .search-input
-      box-sizing: border-box 
+      box-sizing: border-box
       width: 100%
-      height: 2.2rem
-      padding: 0 .31rem
+      height: 1.8rem
+      padding: 0 .3rem
       text-align: center
       border-radius: .26rem
-      color: #666
+      background: #fff
+      color: #ccc
+      font-size: .9rem
 </style>
