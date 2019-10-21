@@ -23,16 +23,16 @@ export default {
 
 <style lang="stylus" scoped>
   .item-title-icon
-    position: relative;
+    // position: relative;
     display: inline-block
-    left: .2rem
-    top: .2rem
+    // left: .2rem
+    // top: .2rem
     width: .8rem;
-    height: .88rem
+    height: .8rem
     line-height: .8rem
-    background: url('http://s.qunarzz.com/piao/image/touch/sight/detail.png') 0 -.45rem no-repeat;
+    background: url('http://s.qunarzz.com/piao/image/touch/sight/detail.png') 0 -.55rem no-repeat;
     margin-right: .1rem;
-    background-size: 1rem 4.6rem;
+    background-size: 1rem 5rem;
   .item-title
     line-height: 2.2rem
     font-size: .8rem
